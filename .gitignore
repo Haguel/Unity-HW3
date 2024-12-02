@@ -1,0 +1,9 @@
+.idea/
+.vs/
+.vsconfig
+Assembly-CSharp.csproj
+Library/
+Logs/
+*.sln
+UserSettings/
+obj/
